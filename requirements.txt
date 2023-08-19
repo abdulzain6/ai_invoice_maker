@@ -1,0 +1,8 @@
+python-telegram-bot
+peewee
+kor
+langchain
+jinga2
+fuzzywuzzy
+python-Levenshtein
+pdfkit
